@@ -2,14 +2,16 @@
 
 **Senior Software Engineer at Microsoft**
 
-I build backend services, distributed systems, and cloud-based applications with Python and TypeScript. My experience spans online safety, natural language processing, data pipelines, and geolocation.
+**AI & NLP | Distributed Systems | Python & TypeScript**
+
+I build AI-powered backend services, distributed systems, and cloud-based applications with Python and TypeScript. My experience includes natural language processing, text classification, and integrating AI-powered services into user-facing applications, alongside data pipelines and geolocation.
 
 I enjoy solving complex engineering problems and turning them into practical, reliable solutions.
 
 ## What I work on
 
 - **Distributed systems:** designing and maintaining services that process data at scale.
-- **Online safety and NLP:** building systems that support healthier online communities.
+- **AI and NLP:** developing and maintaining text classifiers and services that support healthier online communities.
 - **Backend engineering:** developing APIs and services with a focus on reliability and maintainability.
 - **Cloud and data platforms:** connecting services, queues, and databases across Azure and AWS.
 
@@ -18,6 +20,7 @@ I enjoy solving complex engineering problems and turning them into practical, re
 | Area | Technologies |
 | --- | --- |
 | Languages | Python, TypeScript, JavaScript, C#, Java |
+| AI and NLP | Natural language processing, text classification, AI service integration |
 | Backend | NestJS, Express, Flask, ASP.NET |
 | Cloud | Microsoft Azure, AWS |
 | Data | PostgreSQL, MongoDB, Cassandra, MySQL, Redis |
